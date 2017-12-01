@@ -6,15 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestesCSharp
 {
-    public class Testes2
+    class Testes3
     {
-        public void GetUser()
-        {
-            string userName = "";
-
-            string lauro = "";
-            
-
-        }
     }
 }
