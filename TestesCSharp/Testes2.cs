@@ -8,9 +8,12 @@ namespace TestesCSharp
 {
     public class Testes2
     {
-        public void T()
+        public void GetUser()
         {
+            string userName = "";
 
+            string lauro = "";
+            
         }
     }
 }
