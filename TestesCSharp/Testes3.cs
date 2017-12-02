@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestesCSharp
 {
-    class Testes3
+    public class Testes3
     {
     }
 }
