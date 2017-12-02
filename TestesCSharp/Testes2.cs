@@ -12,8 +12,7 @@ namespace TestesCSharp
         {
             string userName = "";
 
-            string lauro = "";
-            
+            string lauro = "";           
 
         }
     }
